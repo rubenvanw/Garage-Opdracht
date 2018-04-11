@@ -26,7 +26,7 @@ $klantplaats = $_POST["klantplaats"];
 //updaten klantgegevens
 require_once "gar-connect.php";
 
-$sql = $conn->prepare("UPDATE klant SET 
+$sql = $conn->prepare("UPDATE klant SET                                                 
                                                 klantnaam= :klantnaam,
                                                 klantadres= :klantadres,
                                                 klantpostcode= :klantpostcode,

@@ -29,16 +29,13 @@ echo "<form action='gar-update-klant3.php' method='post'>";
 foreach ($sql as $klant){
 
     // klantid mag niet gewijzigd worden
-    echo "klantid: " . $klant['klantid'] . "<input type='hidden' name='klantid' value='" . $klant['klantid'] . " ' " . "<br>";
-
-    echo "klantnaam: <input type='text' name='klantnaam' value='" . $klant['klantnaam'] . " ' " . "<br>";
-    echo "klantadres: <input type='text' name='klantadres' value='" . $klant['klantadres'] . " ' " . "<br>";
-    echo "klantpostcode: <input type='text' name='klantpostcode' value='" . $klant['klantpostcode'] . " ' " . "<br>";
-    echo "klantplaats: <input type='text' name='klantplaats' value='" . $klant['klantplaats'] . " ' " . "<br>";
-
+    echo "klantid:  " . "<input type='hidden' name='klantid' value='". $klant['klantid']. "'>" . "<br>";
+   echo "klantnaam:  " . "<input type='text' name='klantnaam' value='". $klant['klantnaam']. "'>" . "<br>";
+   echo "klantadres:  " . "<input type='text' name='klantadres' value='". $klant['klantadres']. "'>" . "<br>";
+   echo "klantpostcode:  " . "<input type='text' name='klantpostcode' value='". $klant['klantpostcode']. "'>" . "<br>";
+   echo "klantplaats:  " . "<input type='text' name='klantplaats' value='". $klant['klantplaats']. "'>" . "<br>";
 
 }
-
 echo "<input type='submit'>";
 echo "</form>";
 
