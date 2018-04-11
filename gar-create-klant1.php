@@ -20,10 +20,10 @@
     <label for="klantadres">Klantadres: </label>
     <input type="text" name="klantadres" id="klantadres">
     <br>
-    <label for="klantpostcode">klantpostcode</label>
+    <label for="klantpostcode">Klantpostcode: </label>
     <input type="text" name="klantpostcode" id="klantpostcode">
     <br>
-    <label for="klantplaats">Klantplaats</label>
+    <label for="klantplaats">Klantplaats: </label>
     <input type="text" name="klantplaats" id="klantplaats">
     <br>
     <input type="submit">
