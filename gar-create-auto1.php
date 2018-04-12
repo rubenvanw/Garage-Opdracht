@@ -11,6 +11,9 @@
 </p>
 <form action="gar-create-auto2.php" method="post">
 
+    <label for="klantid">Klantid: </label>
+    <input type="text" name="klantid" id="klantid">
+    <br>
     <label for="autokenteken">Autokenteken: </label>
     <input type="text" name="autokenteken" id="autokenteken">
     <br>

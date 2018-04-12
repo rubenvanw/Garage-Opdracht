@@ -14,7 +14,7 @@
 </p>
 <?php
 // autogegevens uit het formulier halen
-
+$klantid = NULL;
 $autokenteken = $_POST['autokenteken'];
 $automerk = $_POST['automerk'];
 $autotype = $_POST['autotype'];
@@ -30,6 +30,7 @@ $sql->bindParam(":autokenteken", $autokenteken);
 $sql->bindParam(":automerk", $automerk);
 $sql->bindParam(":autotype", $autotype);
 $sql->bindParam(":autokmstand", $autokmstand);
+$sql->bindParam("klantid", $klantid);
 
 $sql->execute();
 
