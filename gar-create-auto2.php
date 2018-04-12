@@ -14,7 +14,7 @@
 </p>
 <?php
 // autogegevens uit het formulier halen
-$klantid = NULL;
+$klantid = $_POST['klantid'];
 $autokenteken = $_POST['autokenteken'];
 $automerk = $_POST['automerk'];
 $autotype = $_POST['autotype'];
@@ -25,7 +25,7 @@ $autokmstand = $_POST['autokmstand'];
 
 require_once "gar-connect.php";
 
-$sql = $conn->prepare("INSERT INTO auto VALUES (:autokenteken, :automerk, :autotype, :autokmstand");
+$sql = $conn->prepare("INSERT INTO auto VALUES (:autokenteken, :automerk, :autotype, :autokmstand, :klantid)");
 $sql->bindParam(":autokenteken", $autokenteken);
 $sql->bindParam(":automerk", $automerk);
 $sql->bindParam(":autotype", $autotype);
