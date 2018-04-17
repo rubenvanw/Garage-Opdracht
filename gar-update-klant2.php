@@ -15,7 +15,7 @@
 <?php
 
 // klantid uit hwt formulier halen
-$klantid = $_POST['klantidvak'];
+$klantid = $_POST['klantid'];
 
 //klantgegevens uit de tabel halen
 require_once "gar-connect.php";
@@ -25,21 +25,25 @@ $sql = $conn->prepare("SELECT klantid, klantnaam, klantadres, klantpostcode, kla
 $sql->execute(["klantid" => $klantid]);
 
 //klantgegevens in een nieuw formulier laten zien
-echo "<form action='gar-update-klant3.php' method='post'>";
+?>
+
+<form action="gar-update-klant3.php" method="post">
+
+<?php
 foreach ($sql as $klant){
-
-    // klantid mag niet gewijzigd worden
-    echo "klantid:  " . "<input type='hidden' name='klantid' value='". $klant['klantid']. "'>" . "<br>";
-   echo "klantnaam:  " . "<input type='text' name='klantnaam' value='". $klant['klantnaam']. "'>" . "<br>";
-   echo "klantadres:  " . "<input type='text' name='klantadres' value='". $klant['klantadres']. "'>" . "<br>";
-   echo "klantpostcode:  " . "<input type='text' name='klantpostcode' value='". $klant['klantpostcode']. "'>" . "<br>";
-   echo "klantplaats:  " . "<input type='text' name='klantplaats' value='". $klant['klantplaats']. "'>" . "<br>";
-
+    echo "
+klantid:         <input type=\"hidden\" name=\"klantid\"         value=\"" . $klant['klantid']         . "\"><br>
+klantnaam:       <input type=\"text\"   name=\"klantnaam\"       value=\"" . $klant['klantnaam']       . "\"><br>
+klantadres:    <input type=\"text\"   name=\"klantadres\"    value=\"" . $klant['klantadres']    . "\"><br>
+klantpostcode: <input type=\"text\"   name=\"klantpostcode\" value=\"" . $klant['klantpostcode'] . "\"><br>
+klantplaats:       <input type=\"text\"   name=\"klantplaats\"       value=\"" . $klant['klantplaats']       . "\"><br>
+<input type=\"submit\">
+";
 }
-echo "<input type='submit'>";
-echo "</form>";
 
 ?>
+
+</form>
 </body>
 </html>
 

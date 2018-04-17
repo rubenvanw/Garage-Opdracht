@@ -26,19 +26,28 @@ $klantplaats = $_POST["klantplaats"];
 //updaten klantgegevens
 require_once "gar-connect.php";
 
-$sql = $conn->prepare("UPDATE klant SET                                                 
-                                                klantnaam= :klantnaam,
-                                                klantadres= :klantadres,
-                                                klantpostcode= :klantpostcode,
-                                                klantplaats= :klantplaats,
-                                                WHERE klantid= :klantid");
+$sql = $conn->prepare("UPDATE klant 
+                                SET klantnaam= :klantnaam,
+                                    klantadres= :klantadres,
+                                    klantpostcode= :klantpostcode,
+                                    klantplaats= :klantplaats
+                                WHERE klantid= :klantid");
 
-$sql->bindParam("klantnaam", $klantnaam);
-$sql->bindParam("klantadres", $klantadres);
-$sql->bindParam("klantpostcode", $klantpostcode);
-$sql->bindParam("klantplaats", $klantplaats);
-$sql->bindParam("klantid", $klantid);
-$sql->execute();
+//$sql->bindParam("klantnaam", $klantnaam);
+//$sql->bindParam("klantadres", $klantadres);
+//$sql->bindParam("klantpostcode", $klantpostcode);
+//$sql->bindParam("klantplaats", $klantplaats);
+//$sql->bindParam("klantid", $klantid);
+//$sql->execute();
+
+$sql->execute([
+    "klantid" => $klantid,
+    "klantnaam" => $klantnaam,
+    "klantadres" => $klantadres,
+    "klantpostcode" => $klantpostcode,
+    "klantplaats" => $klantplaats
+]);
+
 
 echo "De klant is gewijzigd . <br>";
 echo "<a href='index.html'> terug naar het menu</a>";
