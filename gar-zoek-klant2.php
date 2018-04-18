@@ -6,8 +6,11 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>gar-zoek-klant2.php</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
+<div class="container">
 <h1>garage zoek op klantid</h1>
 <p>
     Op klantid gegevens zoeken uit de tabel klanten van de database garage
@@ -25,7 +28,7 @@ $sql = $conn->prepare("SELECT klantid, klantnaam, klantadres, klantpostcode, kla
 $sql->execute(["klantid" => $klantid]);
 
 //klantgegevens laten zien
-echo"<table>
+echo"<table class=\"striped\">
        <thead>
              <tr>
                 <th>klantid</th>
@@ -50,5 +53,6 @@ foreach ($sql as $rij){
 echo "<a href='index.html'> terug naar het menu </a>";
 
 ?>
+</div>
 </body>
 </html>

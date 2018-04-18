@@ -6,8 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>gar-create-auto2.php</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
+<div class="containerTwee">
 <h1>garage create auto 2</h1>
 <p>
     Een auto toevoegen aan de tabel auto in de database garage
@@ -38,5 +40,6 @@ echo "De auto is toegevoed <br>";
 echo "<a href='index.html'> terug naar het menu</a>";
 
 ?>
+</div>
 </body>
 </html>

@@ -6,9 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>gar-update-auto3.php</title>
-
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
+<div class="containerTwee">
 <h1>garage update auto 3</h1>
 <p>
     Autogegevens wijzigen in de tabel
@@ -42,6 +43,6 @@ $sql->execute([
 echo "De auto is gewijzigd . <br>";
 echo "<a href='index.html'> terug naar het menu</a>";
 ?>
-
+</div>
 </body>
 </html>

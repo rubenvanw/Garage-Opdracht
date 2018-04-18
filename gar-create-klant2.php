@@ -6,8 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>gar-create-klant2.php</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
+<div class="containerTwee">
 <h1>garage create klant 2</h1>
 <p>
     Een klant toevoegen aan de tabel klant in de database garage
@@ -37,5 +39,6 @@ echo "De klant is toegevoed <br>";
 echo "<a href='index.html'> terug naar het menu</a>";
 
 ?>
+</div>
 </body>
 </html>

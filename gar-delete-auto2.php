@@ -6,8 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>gar-delete-auto2.php</title>
+
 </head>
 <body>
+<div class="container">
 <h1>garage delete auto 2</h1>
 <p>
     Op autokenteken gegevens zoeken uit de tabel klanten van de database garage zodat ze verwijderd kunnen worden
@@ -24,7 +26,7 @@ $sql = $conn->prepare("SELECT autokenteken, automerk, autotype, autokmstand, kla
                                 FROM auto WHERE autokenteken= :autokenteken ");
 $sql->execute(["autokenteken" => $autokenteken]);
 
-echo"<table>
+echo"<table class=\"striped\">
        <thead>
              <tr>
                 <th>autokenteken</th>
@@ -52,9 +54,12 @@ echo "<a href='index.html'> terug naar het menu </a>";
 <form action="gar-delete-auto3.php" method="post">
     <input type="hidden" name="autokenteken" <?php echo "value='" . $autokenteken . " '"?>
     <input type="hidden" name="verwijdervak" value="0">
-    <input type="checkbox" name="verwijdervak" value="1">
-    Verwijder deze auto
-    <input type="submit">
+    <label>
+        <input type="checkbox" name="verwijdervak" value="1" checked="checked" class="filled-in" id="verwijdervak">
+        <span>verwijder deze auto</span>
+    </label>
+    <input type="submit" class="btn waves-effect waves-light">
 </form>
+</div>
 </body>
 </html>*/
