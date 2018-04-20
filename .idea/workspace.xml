@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08c69cba-3206-48f1-8885-3c8d5bd181fa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/d9b01e14adb8bf804f9034b6853e33db2823f850/style.scssc" afterPath="$PROJECT_DIR$/.sass-cache/d9b01e14adb8bf804f9034b6853e33db2823f850/style.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-create-auto1.php" afterPath="$PROJECT_DIR$/gar-create-auto1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-create-auto2.php" afterPath="$PROJECT_DIR$/gar-create-auto2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-create-klant1.php" afterPath="$PROJECT_DIR$/gar-create-klant1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-create-klant2.php" afterPath="$PROJECT_DIR$/gar-create-klant2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-delete-auto1.php" afterPath="$PROJECT_DIR$/gar-delete-auto1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-delete-auto2.php" afterPath="$PROJECT_DIR$/gar-delete-auto2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-delete-auto3.php" afterPath="$PROJECT_DIR$/gar-delete-auto3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-delete-klant1.php" afterPath="$PROJECT_DIR$/gar-delete-klant1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-delete-klant2.php" afterPath="$PROJECT_DIR$/gar-delete-klant2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-delete-klant3.php" afterPath="$PROJECT_DIR$/gar-delete-klant3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-read-auto.php" afterPath="$PROJECT_DIR$/gar-read-auto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-read-klant.php" afterPath="$PROJECT_DIR$/gar-read-klant.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-update-auto1.php" afterPath="$PROJECT_DIR$/gar-update-auto1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-update-auto2.php" afterPath="$PROJECT_DIR$/gar-update-auto2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-update-auto3.php" afterPath="$PROJECT_DIR$/gar-update-auto3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-update-klant1.php" afterPath="$PROJECT_DIR$/gar-update-klant1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-update-klant2.php" afterPath="$PROJECT_DIR$/gar-update-klant2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-update-klant3.php" afterPath="$PROJECT_DIR$/gar-update-klant3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-zoek-auto1.php" afterPath="$PROJECT_DIR$/gar-zoek-auto1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-zoek-auto2.php" afterPath="$PROJECT_DIR$/gar-zoek-auto2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-zoek-klant1.php" afterPath="$PROJECT_DIR$/gar-zoek-klant1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gar-zoek-klant2.php" afterPath="$PROJECT_DIR$/gar-zoek-klant2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css.map" afterPath="$PROJECT_DIR$/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,36 +22,19 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+            <state relative-caret-position="476">
+              <caret line="28" column="87" lean-forward="false" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gar-update-klant2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gar-update-klant2.php">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
-              <folding>
-                <marker date="1524042162847" expanded="true" signature="905:1028" ph="SELECT klant... klant" />
-                <marker date="1524042162847" expanded="true" signature="1142:1242" ph="..." />
-                <marker date="1524042162847" expanded="true" signature="1194:1242" ph="..." />
-                <marker date="1524042162847" expanded="true" signature="1282:1891" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gar-update-auto2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gar-update-auto2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-              <folding>
-                <marker date="1524042394012" expanded="true" signature="923:1062" ph="SELECT autok... auto" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,9 +42,41 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gar-delete-auto2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gar-delete-auto2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="65" column="7" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+              <folding>
+                <marker date="1524212681378" expanded="true" signature="860:998" ph="SELECT autok... auto" />
+                <marker date="1524212681378" expanded="true" signature="1083:1346" ph="..." />
+                <marker date="1524212681378" expanded="true" signature="1098:1330" ph="..." />
+                <marker date="1524212681378" expanded="true" signature="1116:1313" ph="..." />
+                <marker date="1524212681378" expanded="true" signature="1388:1630" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gar-delete-klant2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gar-delete-klant2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <marker date="1524039730438" expanded="true" signature="842:965" ph="SELECT klant... klant" />
+                <marker date="1524039730438" expanded="true" signature="1067:1334" ph="..." />
+                <marker date="1524039730438" expanded="true" signature="1082:1318" ph="..." />
+                <marker date="1524039730438" expanded="true" signature="1100:1301" ph="..." />
+                <marker date="1524039730438" expanded="true" signature="1376:1622" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +89,7 @@
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -124,16 +123,20 @@
         <option value="$PROJECT_DIR$/gar-create-auto2.php" />
         <option value="$PROJECT_DIR$/gar-create-klant2.php" />
         <option value="$PROJECT_DIR$/gar-delete-klant2.php" />
-        <option value="$PROJECT_DIR$/style.scss" />
-        <option value="$PROJECT_DIR$/gar-delete-auto2.php" />
         <option value="$PROJECT_DIR$/gar-delete-auto3.php" />
         <option value="$PROJECT_DIR$/gar-delete-klant3.php" />
         <option value="$PROJECT_DIR$/gar-zoek-klantAuto1.php" />
         <option value="$PROJECT_DIR$/gar-zoek-klantAuto2.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gar-update-klant2.php" />
         <option value="$PROJECT_DIR$/gar-update-klant1.php" />
         <option value="$PROJECT_DIR$/gar-update-auto2.php" />
+        <option value="$PROJECT_DIR$/gar-zoek-autoType1.php" />
+        <option value="$PROJECT_DIR$/gar-zoek-autoType2.php" />
+        <option value="$PROJECT_DIR$/gar-zoek-autoType3.php" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.scss" />
+        <option value="$PROJECT_DIR$/gar-delete-auto2.php" />
       </list>
     </option>
   </component>
@@ -169,7 +172,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,11 +188,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/School/Jaar 1/Periode 3/Front-End Development/library-greensock" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
@@ -222,12 +225,16 @@
       <workItem from="1523878204061" duration="3281000" />
       <workItem from="1523955098175" duration="6704000" />
       <workItem from="1523963805536" duration="730000" />
-      <workItem from="1524034992569" duration="7412000" />
+      <workItem from="1524034992569" duration="7982000" />
+      <workItem from="1524064503911" duration="3522000" />
+      <workItem from="1524145547547" duration="5391000" />
+      <workItem from="1524205801076" duration="6742000" />
+      <workItem from="1524215623117" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44020000" />
+    <option name="totallyTimeSpent" value="60337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -237,12 +244,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0015772871" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -251,6 +258,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0015772871" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -259,42 +285,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/script.js</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gar-create-auto1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gar-create-klant1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -434,20 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gar-zoek-auto2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding>
-            <marker date="1524036472960" expanded="true" signature="816:944" ph="SELECT autok... auto" />
-            <marker date="1524036472960" expanded="true" signature="1055:1318" ph="..." />
-            <marker date="1524036472960" expanded="true" signature="1070:1302" ph="..." />
-            <marker date="1524036472960" expanded="true" signature="1088:1285" ph="..." />
-            <marker date="1524036472960" expanded="true" signature="1360:1602" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gar-update-auto3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -469,14 +456,6 @@
             <marker date="1524035967459" expanded="true" signature="873:1070" ph="..." />
             <marker date="1524035967459" expanded="true" signature="1145:1387" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gar-zoek-auto1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -504,14 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gar-create-auto1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="48" column="107" lean-forward="true" selection-start-line="48" selection-start-column="107" selection-end-line="48" selection-end-column="107" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gar-create-auto2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -528,34 +499,6 @@
           <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
           <folding>
             <marker date="1524038317396" expanded="true" signature="826:917" ph="INSERT INTO klant... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gar-delete-auto2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
-          <folding>
-            <marker date="1524039730249" expanded="true" signature="679:817" ph="SELECT autok... auto" />
-            <marker date="1524039730249" expanded="true" signature="902:1165" ph="..." />
-            <marker date="1524039730249" expanded="true" signature="917:1149" ph="..." />
-            <marker date="1524039730249" expanded="true" signature="935:1132" ph="..." />
-            <marker date="1524039730249" expanded="true" signature="1207:1449" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gar-delete-klant2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="62" column="12" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
-          <folding>
-            <marker date="1524039730438" expanded="true" signature="842:965" ph="SELECT klant... klant" />
-            <marker date="1524039730438" expanded="true" signature="1067:1334" ph="..." />
-            <marker date="1524039730438" expanded="true" signature="1082:1318" ph="..." />
-            <marker date="1524039730438" expanded="true" signature="1100:1301" ph="..." />
-            <marker date="1524039730438" expanded="true" signature="1376:1622" ph="..." />
           </folding>
         </state>
       </provider>
@@ -612,14 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gar-zoek-klant1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gar-zoek-klantAuto2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
@@ -631,36 +566,6 @@
             <marker date="1524041109824" expanded="true" signature="1096:1293" ph="..." />
             <marker date="1524041109824" expanded="true" signature="1376:1618" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gar-zoek-klant2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-          <folding>
-            <marker date="1524036473074" expanded="true" signature="809:932" ph="SELECT klant... klant" />
-            <marker date="1524036473074" expanded="true" signature="1033:1300" ph="..." />
-            <marker date="1524036473074" expanded="true" signature="1048:1284" ph="..." />
-            <marker date="1524036473074" expanded="true" signature="1066:1267" ph="..." />
-            <marker date="1524036473074" expanded="true" signature="1342:1588" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,23 +596,161 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gar-update-klant2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+        <state relative-caret-position="901">
+          <caret line="53" column="2" lean-forward="false" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
           <folding>
             <marker date="1524042162847" expanded="true" signature="905:1028" ph="SELECT klant... klant" />
-            <marker date="1524042162847" expanded="true" signature="1142:1242" ph="..." />
-            <marker date="1524042162847" expanded="true" signature="1194:1242" ph="..." />
-            <marker date="1524042162847" expanded="true" signature="1282:1891" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gar-update-auto2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        <state relative-caret-position="549">
+          <caret line="52" column="34" lean-forward="false" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
           <folding>
             <marker date="1524042394012" expanded="true" signature="923:1062" ph="SELECT autok... auto" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-zoek-auto1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-zoek-auto2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <marker date="1524036472960" expanded="true" signature="816:944" ph="SELECT autok... auto" />
+            <marker date="1524036472960" expanded="true" signature="1055:1318" ph="..." />
+            <marker date="1524036472960" expanded="true" signature="1070:1302" ph="..." />
+            <marker date="1524036472960" expanded="true" signature="1088:1285" ph="..." />
+            <marker date="1524036472960" expanded="true" signature="1360:1602" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-zoek-klant2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <marker date="1524036473074" expanded="true" signature="809:932" ph="SELECT klant... klant" />
+            <marker date="1524036473074" expanded="true" signature="1033:1300" ph="..." />
+            <marker date="1524036473074" expanded="true" signature="1048:1284" ph="..." />
+            <marker date="1524036473074" expanded="true" signature="1066:1267" ph="..." />
+            <marker date="1524036473074" expanded="true" signature="1342:1588" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-zoek-klant1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-zoek-autoType1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-zoek-autoType2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="40" lean-forward="false" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+          <folding>
+            <marker date="1524066215788" expanded="true" signature="844:956" ph="SELECT autok... auto" />
+            <marker date="1524066215788" expanded="true" signature="844:964" ph="SELECT autok... auto" />
+            <marker date="1524066215788" expanded="true" signature="1079:1342" ph="..." />
+            <marker date="1524066215788" expanded="true" signature="1094:1326" ph="..." />
+            <marker date="1524066215788" expanded="true" signature="1112:1309" ph="..." />
+            <marker date="1524066215788" expanded="true" signature="1392:1634" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-zoek-autoType3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1524067773482" expanded="true" signature="852:975" ph="SELECT klant... klant" />
+            <marker date="1524067773482" expanded="true" signature="1088:1355" ph="..." />
+            <marker date="1524067773482" expanded="true" signature="1103:1339" ph="..." />
+            <marker date="1524067773482" expanded="true" signature="1121:1322" ph="..." />
+            <marker date="1524067773482" expanded="true" signature="1405:1651" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-create-auto1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="87" lean-forward="false" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-delete-klant2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <marker date="1524039730438" expanded="true" signature="842:965" ph="SELECT klant... klant" />
+            <marker date="1524039730438" expanded="true" signature="1067:1334" ph="..." />
+            <marker date="1524039730438" expanded="true" signature="1082:1318" ph="..." />
+            <marker date="1524039730438" expanded="true" signature="1100:1301" ph="..." />
+            <marker date="1524039730438" expanded="true" signature="1376:1622" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gar-delete-auto2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="65" column="7" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+          <folding>
+            <marker date="1524212681378" expanded="true" signature="860:998" ph="SELECT autok... auto" />
+            <marker date="1524212681378" expanded="true" signature="1083:1346" ph="..." />
+            <marker date="1524212681378" expanded="true" signature="1098:1330" ph="..." />
+            <marker date="1524212681378" expanded="true" signature="1116:1313" ph="..." />
+            <marker date="1524212681378" expanded="true" signature="1388:1630" ph="..." />
           </folding>
         </state>
       </provider>
